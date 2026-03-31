@@ -1,5 +1,10 @@
 ---
 indexpage:
+  title: Versionshinweise zu Cloud Volumes ONTAP 9.13.0
+  summary: In diesen Versionshinweisen werden neue Funktionen, Einschränkungen und
+    bekannte Probleme von Cloud Volumes ONTAP 9.13.0 beschrieben.
+  keywords: rn, cvo, release notes, cloud volumes ontap, known, limitations, new,
+    features, issues, 9.13.0, 9130
   lead: In diesen Versionshinweisen werden neue Funktionen, Einschränkungen und bekannte
     Probleme von Cloud Volumes ONTAP 9.13.0 beschrieben.
   tiles:
